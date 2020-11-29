@@ -1,0 +1,253 @@
+{
+    "food": {
+        "pineapples": {
+            "fullURL": "https://api.spoonacular.com/food/ingredients/:id/information?amount=1&unit=grams&apiKey={apik_key}",
+            "request_uri": "/food/ingredients/:id/information?amount=1&unit=grams&apiKey={apik_key}",
+            "response": {
+                "id": 9266,
+                "original": "pineapples",
+                "originalName": "pineapples",
+                "name": "pineapples",
+                "amount": 1.0,
+                "unit": "grams",
+                "unitShort": "g",
+                "unitLong": "gram",
+                "possibleUnits": [
+                    "piece",
+                    "slice",
+                    "fruit",
+                    "g",
+                    "oz",
+                    "cup",
+                    "serving"
+                ],
+                "estimatedCost": {
+                    "value": 0.33,
+                    "unit": "US Cents"
+                },
+                "consistency": "solid",
+                "shoppingListUnits": [
+                    "pieces"
+                ],
+                "aisle": "Produce",
+                "image": "pineapple.jpg",
+                "meta": [],
+                "nutrition": {
+                    "nutrients": [
+                        {
+                            "title": "Calories",
+                            "amount": 0.5,
+                            "unit": "kcal",
+                            "percentOfDailyNeeds": 0.03
+                        },
+                        {
+                            "title": "Fat",
+                            "amount": 0.0,
+                            "unit": "g",
+                            "percentOfDailyNeeds": 0.0
+                        },
+                        {
+                            "title": "Saturated Fat",
+                            "amount": 0.0,
+                            "unit": "g",
+                            "percentOfDailyNeeds": 0.0
+                        },
+                        {
+                            "title": "Carbohydrates",
+                            "amount": 0.13,
+                            "unit": "g",
+                            "percentOfDailyNeeds": 0.04
+                        },
+                        {
+                            "title": "Net Carbohydrates",
+                            "amount": 0.12,
+                            "unit": "g",
+                            "percentOfDailyNeeds": 0.04
+                        },
+                        {
+                            "title": "Sugar",
+                            "amount": 0.1,
+                            "unit": "g",
+                            "percentOfDailyNeeds": 0.11
+                        },
+                        {
+                            "title": "Cholesterol",
+                            "amount": 0.0,
+                            "unit": "mg",
+                            "percentOfDailyNeeds": 0.0
+                        },
+                        {
+                            "title": "Sodium",
+                            "amount": 0.01,
+                            "unit": "mg",
+                            "percentOfDailyNeeds": 0.0
+                        },
+                        {
+                            "title": "Protein",
+                            "amount": 0.01,
+                            "unit": "g",
+                            "percentOfDailyNeeds": 0.01
+                        }
+                    ],
+                    "properties": [
+                        {
+                            "title": "Glycemic Index",
+                            "amount": 58.67,
+                            "unit": ""
+                        },
+                        {
+                            "title": "Glycemic Load",
+                            "amount": 0.07,
+                            "unit": ""
+                        }
+                    ],
+                    "flavanoids": [
+                        {
+                            "title": "Cyanidin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Petunidin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Delphinidin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Malvidin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Pelargonidin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Peonidin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Catechin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Epigallocatechin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Epicatechin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Epicatechin 3-gallate",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Epigallocatechin 3-gallate",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Theaflavin",
+                            "amount": 0.0,
+                            "unit": ""
+                        },
+                        {
+                            "title": "Thearubigins",
+                            "amount": 0.0,
+                            "unit": ""
+                        },
+                        {
+                            "title": "Eriodictyol",
+                            "amount": 0.0,
+                            "unit": ""
+                        },
+                        {
+                            "title": "Hesperetin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Naringenin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Apigenin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Luteolin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Isorhamnetin",
+                            "amount": 0.0,
+                            "unit": ""
+                        },
+                        {
+                            "title": "Kaempferol",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Myricetin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Quercetin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        },
+                        {
+                            "title": "Theaflavin-3,3'-digallate",
+                            "amount": 0.0,
+                            "unit": ""
+                        },
+                        {
+                            "title": "Theaflavin-3'-gallate",
+                            "amount": 0.0,
+                            "unit": ""
+                        },
+                        {
+                            "title": "Theaflavin-3-gallate",
+                            "amount": 0.0,
+                            "unit": ""
+                        },
+                        {
+                            "title": "Gallocatechin",
+                            "amount": 0.0,
+                            "unit": "mg"
+                        }
+                    ],
+                    "caloricBreakdown": {
+                        "percentProtein": 3.88,
+                        "percentFat": 1.94,
+                        "percentCarbs": 94.18
+                    },
+                    "weightPerServing": {
+                        "amount": 1,
+                        "unit": "g"
+                    }
+                },
+                "categoryPath": [
+                    "tropical fruit",
+                    "fruit"
+                ]
+            }
+        }
+    }
+}
