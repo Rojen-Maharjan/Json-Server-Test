@@ -1,6 +1,10 @@
 {
-    "fullURL": "https://api.spoonacular.com/food/ingredients/:id/information?amount=1&unit=grams&apiKey={apik_key}",
-    "request_uri": "/food/ingredients/:id/information?amount=1&unit=grams&apiKey={apik_key}",
+    "full_url": {
+        "url": "https://api.spoonacular.com/food/ingredients/:id/information?amount=1&unit=grams&apiKey={apik_key}"
+    },
+    "request_uri": {
+        "url": "/food/ingredients/:id/information?amount=1&unit=grams&apiKey={apik_key}"
+    },
     "food": {
         "id": 9266,
         "original": "pineapples",
